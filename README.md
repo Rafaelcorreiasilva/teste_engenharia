@@ -21,7 +21,5 @@ Este repositório contém o código e os arquivos resultantes de uma análise de
 
 As questões apresentadas no PDF foram respondidas e documentadas no arquivo "teste_engenharia.docx".
 
-## Figurinhas
-
 📊📈📉 Utilizamos gráficos para visualizar as tendências de vendas.
 📂💼 Os arquivos estão organizados de forma a facilitar a navegação e entendimento do projeto.
