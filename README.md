@@ -12,9 +12,9 @@ Este repositório contém o código e os arquivos resultantes de uma análise de
 
 ## Arquivos
 
-- `dados_vendas_2019.csv`: Arquivo contendo os dados de vendas do ano de 2019.
-- `notebook_analise_vendas.ipynb`: Notebook contendo o código utilizado para a análise das vendas.
-- `relatorio_vendas_2019.pdf`: Relatório com as análises e conclusões obtidas a partir dos dados.
+- `pasta: base_usada`: Contém o relatórios analiticos criadas.
+- `pasta: notebook_databricks`: Contém o arquivo do Notebook contendo o código utilizado para a ingestão tratamento e criação de relatórios.
+- `teste - Engenharia de Dados.pdf`: Arquivo contendo as perguntas do teste.
 - `teste_engenharia.docx`: Documento contendo as respostas às questões propostas no PDF.
 
 ## Perguntas e Respostas
