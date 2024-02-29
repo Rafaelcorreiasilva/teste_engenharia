@@ -1,4 +1,4 @@
-# Projeto de Análise de Vendas de 2019
+# Projeto de Análise de Vendas de 3 supermercados do ano de 2019
 
 Este repositório contém o código e os arquivos resultantes de uma análise de vendas do ano de 2019 em três mercados, utilizando uma base de dados do Kaggle. Todo o processo foi conduzido no Databricks através de notebooks.
 
