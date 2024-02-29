@@ -1,0 +1,19 @@
+supermercado,linha_produto,"date_format(data_compra, yyyy)",receita_total
+A,Alimentos e bebidas,2019,817.3
+A,acessorios eletronicos,2019,872.26
+A,acessorios fashions,2019,777.7
+A,casa e estilo de vida,2019,1067.48
+A,esportes e viagens,2019,922.5
+A,saude e beleza,2019,599.91
+B,Alimentos e bebidas,2019,724.54
+B,acessorios eletronicos,2019,812.01
+B,acessorios fashions,2019,781.62
+B,casa e estilo de vida,2019,835.67
+B,esportes e viagens,2019,951.86
+B,saude e beleza,2019,951.48
+C,Alimentos e bebidas,2019,1131.76
+C,acessorios eletronicos,2019,903.27
+C,acessorios fashions,2019,1026.66
+C,casa e estilo de vida,2019,661.66
+C,esportes e viagens,2019,750.59
+C,saude e beleza,2019,791.2

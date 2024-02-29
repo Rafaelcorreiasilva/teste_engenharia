@@ -1,0 +1,37 @@
+supermercado,linha_produto,sexo_cliente,quantidade_total_de_compras_por_linha_produto,quantidade_de_compras_por_sexo,porcentagem_compras_por_sexo
+A,Alimentos e bebidas,feminino,58,23,40
+A,Alimentos e bebidas,masculino,58,35,60
+A,acessorios eletronicos,feminino,60,28,47
+A,acessorios eletronicos,masculino,60,32,53
+A,acessorios fashions,feminino,51,28,55
+A,acessorios fashions,masculino,51,23,45
+A,casa e estilo de vida,feminino,65,32,49
+A,casa e estilo de vida,masculino,65,33,51
+A,esportes e viagens,feminino,59,29,49
+A,esportes e viagens,masculino,59,30,51
+A,saude e beleza,feminino,47,21,45
+A,saude e beleza,masculino,47,26,55
+B,Alimentos e bebidas,feminino,50,29,58
+B,Alimentos e bebidas,masculino,50,21,42
+B,acessorios eletronicos,feminino,55,28,51
+B,acessorios eletronicos,masculino,55,27,49
+B,acessorios fashions,feminino,62,33,53
+B,acessorios fashions,masculino,62,29,47
+B,casa e estilo de vida,feminino,50,22,44
+B,casa e estilo de vida,masculino,50,28,56
+B,esportes e viagens,feminino,62,30,48
+B,esportes e viagens,masculino,62,32,52
+B,saude e beleza,feminino,53,20,38
+B,saude e beleza,masculino,53,33,62
+C,Alimentos e bebidas,feminino,66,38,58
+C,Alimentos e bebidas,masculino,66,28,42
+C,acessorios eletronicos,feminino,55,28,51
+C,acessorios eletronicos,masculino,55,27,49
+C,acessorios fashions,feminino,65,35,54
+C,acessorios fashions,masculino,65,30,46
+C,casa e estilo de vida,feminino,45,25,56
+C,casa e estilo de vida,masculino,45,20,44
+C,esportes e viagens,feminino,45,29,64
+C,esportes e viagens,masculino,45,16,36
+C,saude e beleza,feminino,52,23,44
+C,saude e beleza,masculino,52,29,56
